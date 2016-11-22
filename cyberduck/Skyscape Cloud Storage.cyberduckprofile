@@ -14,6 +14,8 @@
         <string>8443</string>
         <key>Scheme</key>
         <string>https</string>
+        <key>Authorization</key>
+        <string>AWS2</string>
         	<key>Disk</key>
 	<string>
     SUkqAHpwBQCAP+BP8AQWDQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2PR+QSGRSOSSWTSeUSmVS
