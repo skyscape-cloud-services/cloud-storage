@@ -5,18 +5,18 @@
         <key>Protocol</key>
         <string>s3</string>
         <key>Vendor</key>
-        <string>Skyscape Cloud Storage</string>
+        <string>UKCloud Cloud Storage</string>
         <key>Description</key>
-        <string>Skyscape Cloud Storage</string>
+        <string>UKCloud Cloud Storage</string>
         <key>Default Hostname</key>
-        <string>cas00002.skyscapecloud.com</string>
+        <string>cas00002.ukcloud.com</string>
         <key>Default Port</key>
         <string>8443</string>
         <key>Scheme</key>
         <string>https</string>
         <key>Authorization</key>
         <string>AWS2</string>
-        	<key>Disk</key>
+        <key>Disk</key>
 	<string>
     SUkqAHpwBQCAP+BP8AQWDQeEQmFQuGQ2HQ+IRGJROKRWLReMRmNRuOR2PR+QSGRSOSSWTSeUSmVS
 uWS2XS+YTGZTOaTWbTecTmdTueT2fT+gUGhUOiUWjUekUmlUumU2nU+oVGpVOqVWrVesVmtVuuVq
