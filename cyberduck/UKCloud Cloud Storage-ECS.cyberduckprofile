@@ -9,7 +9,7 @@
         <key>Description</key>
         <string>UKCloud Cloud Storage - EMC ECS S3 HTTPS with AWS2</string>
         <key>Default Hostname</key>
-        <string>s3.cas.ukcloud.com </string>
+        <string>s3.cas.far00006.ukcloud.com</string>
         <key>Default Port</key>
         <string>443</string>
         <key>Scheme</key>
